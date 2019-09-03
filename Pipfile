@@ -11,6 +11,9 @@ djangorestframework = "*"
 django-cors-headers = "*"
 pillow = "*"
 django-rest-knox = "*"
+gunicorn = "*"
+django-heroku = "*"
+psycopg2-binary = "*"
 
 [requires]
 python_version = "3.7"
